@@ -1,0 +1,8 @@
+#game-area{
+    height: 110vh;
+}
+
+.rule{
+    width: min(900px, 100vw);
+    text-align: center;
+}
